@@ -1,0 +1,17 @@
+{
+  "erigonURL": "http://65.109.53.138:5845",
+  "experimentalFixedChainId": 8899,
+  "chainInfo": {
+    "name": "JIB CHain",
+    "faucets": [],
+    "nativeCurrency": {
+      "name": "JBC",
+      "symbol": "JBC",
+      "decimals": 18
+    }
+  },
+  "sourcifySources": {
+    "ipfs": "https://ipfs.8api.sh/ipfs",
+    "central_server": "https://repo.trustcontract.dev/"
+  }
+}
