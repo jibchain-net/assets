@@ -1,5 +1,5 @@
 {
-  "erigonURL": "http://65.109.53.138:5845",
+  "erigonURL": "http://65.109.53.138:38545",
   "experimentalFixedChainId": 8899,
   "chainInfo": {
     "name": "JIB CHain",
