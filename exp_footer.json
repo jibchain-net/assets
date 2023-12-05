@@ -1,0 +1,58 @@
+[
+    {
+      "title": "Developers",
+      "links": [
+        {
+          "text": "Documentation",
+          "url": "https://docs.jibchain.net/"
+        },
+        {
+          "text": "GitHub",
+          "url": "https://github.com/jibchain-net"
+        }
+      ]
+    },
+    {
+      "title": "Community",
+      "links": [
+        {
+          "text": "Facebook Group",
+          "url": "https://www.facebook.com/groups/jibchain"
+        },
+        {
+          "text": "FB: JIB Chain Fanclub",
+          "url": "https://www.facebook.com/jibchainfc"
+        },
+        {
+          "text": "LinkTree",
+          "url": "https://linktr.ee/JIBCHAIN"
+        }
+      ]
+    },
+    {
+      "title": "About JBC",
+      "links": [
+        {
+          "text": "About",
+          "url": "https://jibchain.net/"
+        }
+      ]
+    },
+    {
+      "title": "Partners",
+      "links": [
+        {
+          "text": "JIB",
+          "url": "https://www.jib.co.th/"
+        },
+        {
+          "text": "Tokenine",
+          "url": "https://tokenine.co/"
+        },
+        {
+          "text": "Thaichain",
+          "url": "https://www.thaichain.io/"
+        }
+      ]
+    }
+  ]
